@@ -9,8 +9,8 @@ public class ByUsingLinkText {
 	public static void main(String[] args) {
 		WebDriver driver=new ChromeDriver();
 		driver.manage().window().maximize();
-		driver.get("http://flipkart.com");
-		driver.findElement(By.linkText("Card")).click();
+		driver.get("http://ebay.com");
+		driver.findElement(By.linkText("register")).click();
 		
 	}
 
