@@ -29,7 +29,9 @@ public class UsingTable1 {
 		}
 			driver.close();
 		}
+	}
+		
 		
 	
-	}
+	
 
